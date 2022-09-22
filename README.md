@@ -84,7 +84,8 @@ Um unter anderem Dokumente zu beschriften, wird dem Logo unsere Wordmark hinzuge
 ### 3.3	Offizielle Varianten
 
 Zu speziellen Ereignissen werden unsere Profilbilder auf Social-Media angepasst. Dafür sind folgende Abänderungen unseres Logos geplant.
- 
+
+![Logo variations](https://user-images.githubusercontent.com/59011553/191716847-11d0a32d-d50e-45e7-bf15-b0733b485b49.png)
  
 ## 4	Wordmark
 ### 4.1	Firmenname
