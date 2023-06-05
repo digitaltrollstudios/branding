@@ -119,7 +119,7 @@ Unser Slogan bezieht sich auf die Hauptwaffe des Trolls, die Keule (Club) und ma
 |                   |                                      |
 |-------------------|--------------------------------------|
 | Standard          | Watch out for the Club!              |
-| Mit Gründungsjahr | Watch ouf for the Club! \| est. 2022 |
+| Mit Gründungsjahr | Watch out for the Club! \| est. 2022 |
 
 
  
